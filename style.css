@@ -1,0 +1,26 @@
+body {
+    font-size: 15pt;
+    background: #007EE9;
+}
+
+h1{
+  font-family: 'Sigmar One', cursive;
+  color: whitesmoke;
+  background-color: limegreen;
+  border-radius: 2rem;
+}
+
+style {
+  background-color: #007EE9
+}
+
+canvas {
+  border-radius: 2rem;
+}
+
+p {
+  font-family: 'Anton', sans-serif;
+  color: whitesmoke;
+  background-color: lightslategrey;
+  border-radius: 2rem;
+}
