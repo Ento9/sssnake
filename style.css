@@ -1,6 +1,18 @@
 body {
     font-size: 15pt;
-    background: #007EE9;
+    background-color: darkgoldenrod;
+    animation-name: body1;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes body1{
+  
+  10% {background: orangered;}
+  25% {background-color: hotpink;}
+  40% {background-color: dodgerblue;}
+  75% {background-color: lightseagreen;}
+  100% {background-color: peru;}
 }
 
 h1{
